@@ -86,6 +86,5 @@
 - CIFAR100: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
 
 ## TODO
-- [ ] Release the remaining code from our work after the paper is published.
 
 - [ ] If you have any questions, feel free to raise an issue or send a mail to `yangqing1227@qq.com`. I will respond to you as soon as possible.
