@@ -57,6 +57,7 @@ class SNNInputModule(nn.Module):
         functional.set_step_mode(self, step_mode='m')
 
         # Initialize STCA
+        # Fine-tuning the hyperparameters ratio_1 and ratio_2 may yield better accuracy
         self.stca = Spatio_Temporal_Coordinate_Attention(
             T=self.T,
             out_channels=out_channels,
