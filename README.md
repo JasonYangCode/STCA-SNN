@@ -172,14 +172,17 @@ CNN SCAU Block - Output Shape: torch.Size([8, 64, 32, 32])
 
 
 
-## TODO
+
 
 If you have any questions, feel free to send an email to `qingyangswu(at)gmail.com`. I will respond to you as soon as possible.
 
 
-## Acknowledgement
+## Thanks
 
-Hou, Qibin, Daquan Zhou, and Jiashi Feng. "Coordinate attention for efficient mobile network design." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 13713-13722. 2021.
+We gratefully thank the authors for their wonderful works:
+
+- Hou, Qibin, Daquan Zhou, and Jiashi Feng. "Coordinate attention for efficient mobile network design." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 13713-13722. 2021.
+- Zhu, Rui-Jie, Malu Zhang, Qihang Zhao, Haoyu Deng, Yule Duan, and Liang-Jian Deng. "TCJA-SNN: Temporal-channel joint attention for spiking neural networks." IEEE Transactions on Neural Networks and Learning Systems 36, no. 3 (2024): 5112-5125.
 
 ## Reference
 
