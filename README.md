@@ -193,7 +193,7 @@ Yang, Qing, Meiling Zhong, Jiabin Sun, Xiurong Zhong, Shukai Duan, and Lidan Wan
 
 
 ```
-@article{YANG2026132570,
+@article{yang2026stca,
 title = {STCA-SNN: Spatio-Temporal Coordinate Attention for Spiking Neural Networks},
 journal = {Expert Systems with Applications},
 volume = {325},
