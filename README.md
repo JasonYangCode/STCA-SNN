@@ -189,13 +189,14 @@ We gratefully thank the authors for their wonderful works:
 If you find this repo useful, please consider citing:
 
 
-Yang, Qing, Meiling Zhong, Jiabin Sun, Xiurong Zhong, Shukai Duan, and Lidan Wang. "STCA-SNN: Spatio-Temporal Coordinate Attention for Spiking Neural Networks." Expert Systems with Applications (2026): 132570. https://doi.org/10.1016/j.eswa.2026.132570
+Yang, Qing, Meiling Zhong, Jiabin Sun, Xiurong Zhong, Shukai Duan, and Lidan Wang. "STCA-SNN: Spatio-temporal coordinate attention for spiking neural networks." Expert Systems with Applications 325 (2026): 132570. https://doi.org/10.1016/j.eswa.2026.132570
 
 
 ```
 @article{YANG2026132570,
 title = {STCA-SNN: Spatio-Temporal Coordinate Attention for Spiking Neural Networks},
 journal = {Expert Systems with Applications},
+volume = {325},
 pages = {132570},
 year = {2026},
 issn = {0957-4174},
