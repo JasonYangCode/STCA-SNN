@@ -174,7 +174,7 @@ CNN SCAU Block - Output Shape: torch.Size([8, 64, 32, 32])
 
 
 
-If you have any questions, feel free to send an email to `qingyangswu AT gmail DOT com`. I will respond to you as soon as possible.
+If you have any questions, feel free to send an email to `qingyangswu(AT)gmail DOT com`. I will respond to you as soon as possible.
 
 
 ## Thanks
