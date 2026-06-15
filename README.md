@@ -202,6 +202,6 @@ year = {2026},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2026.132570},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417426014831},
-author = {Qing Yang and Meiling Zhong and Jiabin Sun and Xiurong Zhong and Shukai Duan and Lidan Wang},
+author={Yang, Qing and Zhong, Meiling and Sun, Jiabin and Zhong, Xiurong and Duan, Shukai and Wang, Lidan},
 }
 ```
